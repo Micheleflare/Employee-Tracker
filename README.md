@@ -1,6 +1,7 @@
 # Employee Tracker
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+video : https://drive.google.com/file/d/1UIeYC-m0ZuCiLqUzGeUESn55oZn0amM0/view?usp=sharing&t=71
 
 ## Description
 The Employee Tracker is a command-line application that allows business owners and managers to view and manage the departments, roles, and employees in their company. This Content Management System (CMS) is built using Node.js, Inquirer, and PostgreSQL, providing an intuitive interface to interact with the company's employee database.
